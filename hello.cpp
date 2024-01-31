@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-    int n;
+    int n,x=100;
     
     cout << "enter an  number: ";
     cin << n;
