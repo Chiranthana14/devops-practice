@@ -3,15 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    int n;
-    
-    cout << "enter an  number: ";
-    cin >> n;
-    if(n%2==0)
-        cout <<n<<"is even";
-    else
-        cout<<n<<"is odd";
-    
+int main(int argc, char** argv) {
+    std::cout << "Hello World" << std::endl;
     return 0;
 }
